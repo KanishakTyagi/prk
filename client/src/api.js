@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://prk-1.onrender.com/api',
+  baseURL: 'https://prk-z43u.onrender.com/api',
 });
 
 // Add a request interceptor to attach JWT token
